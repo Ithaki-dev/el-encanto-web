@@ -38,7 +38,7 @@ const Navbar = () => {
           {/* Logo */}
           <a href="#home" className="flex items-center gap-2">
             <img
-              src="/images/logo_encanto.png"
+              src="images/logo_encanto.png"
               alt="El Encanto Logo"
               className="h-12 w-auto object-contain"
             />

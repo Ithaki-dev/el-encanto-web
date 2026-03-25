@@ -4,32 +4,32 @@ import { X } from 'lucide-react';
 
 const images = [
   {
-    src: "/images/g_2.heic",
+    src: "images/g_2.heic",
     alt: "Piscina cristalina",
     className: "md:col-span-2 md:row-span-2"
   },
   {
-    src: "/images/g_3.heic",
+    src: "images/g_3.heic",
     alt: "Comida en el restaurante",
     className: "col-span-1 row-span-1"
   },
   {
-    src: "/images/g_4.heic",
+    src: "images/g_4.heic",
     alt: "Senderos verdes",
     className: "col-span-1 row-span-1"
   },
   {
-    src: "/images/g_5.jpg",
+    src: "images/g_5.jpg",
     alt: "Zona de descanso",
     className: "md:col-span-2 row-span-1"
   },
   {
-    src: "/images/g_6.jpg",
+    src: "images/g_6.jpg",
     alt: "Niños jugando",
     className: "col-span-1 row-span-1"
   },
   {
-    src: "/images/g_7.jpg",
+    src: "images/g_7.jpg",
     alt: "Áreas recreativas",
     className: "col-span-1 row-span-1"
   }

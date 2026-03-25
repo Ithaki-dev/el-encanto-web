@@ -23,7 +23,7 @@ const Footer = () => {
           <div className="lg:col-span-1">
             <a href="#home" className="flex items-center gap-2 mb-6">
               <img
-                src="/images/logo_encanto.png"
+                src="images/logo_encanto.png"
                 alt="El Encanto Logo"
                 className="h-12 w-auto object-contain"
               />

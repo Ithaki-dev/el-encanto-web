@@ -35,7 +35,7 @@ const Booking = () => {
           <div className="w-full lg:w-5/12 bg-encanto-dark p-10 md:p-12 flex flex-col justify-between relative overflow-hidden text-white">
             <div className="absolute inset-0 z-0 opacity-20">
               <img 
-                src="/images/reservas.jpg" 
+                src="images/reservas.jpg" 
                 alt="Fondo reserva" 
                 className="w-full h-full object-cover text-white"
               />

@@ -80,7 +80,7 @@ const About = () => {
           >
             <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl">
               <img 
-                src="/images/nosotros.jpg" 
+                src="images/nosotros.jpg" 
                 alt="Familia disfrutando en la naturaleza" 
                 className="w-full h-[500px] object-cover"
               />

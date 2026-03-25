@@ -7,7 +7,7 @@ const Hero = () => {
       {/* Background Image & Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/images/hero.jpg"
+          src="images/hero.jpg"
           alt="El Encanto Nature Background"
           className="w-full h-full object-cover"
         />
